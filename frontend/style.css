@@ -1,0 +1,28 @@
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+body {
+  background-color: azure;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-weight: 700;
+  color: blue;
+}
+
+div {
+  font-weight: 400;
+  font-family: 'Roboto', sans-serif;
+  width: 200px;
+  height: 200px;
+  padding: 8px 80px 120px 40px;
+  border: 1px solid black;
+  text-align: center;
+
+  margin: 50px 5px 100px 10px;
+}
+
+/* border kerekítése
+block középre helyezése */
