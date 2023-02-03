@@ -19,8 +19,8 @@ div {
   height: 200px;
   padding: 8px 80px 120px 40px;
   border: 1px solid black;
+  border-radius: 30px;
   text-align: center;
-
   margin: 50px 5px 100px 10px;
 }
 
